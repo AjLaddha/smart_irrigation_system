@@ -1,5 +1,5 @@
 # smart_irrigation_system
-The objective of our project is to detect soil moisture
+The objective of this project is to detect soil moisture
 level in the fields and maintain it at an optimum level. Recently,
 there has been a sharp decrease in the availability of labour
 force in agricultural field and farmers are now heading towards
